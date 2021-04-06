@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ![serdarjan1995's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigalex95&show_icons=true&theme=default&include_all_commits=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bigalex95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bigalex95&layout=compact)]
 
 ## ⚡ Technologies
 
@@ -57,4 +57,4 @@ Here are some ideas to get you started:
 ![Keras](https://img.shields.io/badge/-Keras-EA7E20?style=flat-square&logo=keras)
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=serdarjan1995.serdarjan1995)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bigalex95.bigalex95)
