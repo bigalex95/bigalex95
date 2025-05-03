@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alibek Erkabayev
 ========================================================================================================================================
 
-Computer Vision Developer
+I'm a Computer Scientist with extensive experience in Machine Learning and Computer Vision. As a personal interest, I engage in various Computer Vision projects, including interactive games, object detection systems, and Augmented Reality applications.
 -------------------------
 
 *   🌍  I'm based in Turkey
