@@ -2,6 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ========================================================================================================================================
 
 I'm a Computer Scientist with extensive experience in Machine Learning and Computer Vision. As a personal interest, I engage in various Computer Vision projects, including interactive games, object detection systems, and Augmented Reality applications.
+
 -------------------------
 
 *   🌍  I'm based in Turkey
