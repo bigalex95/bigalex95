@@ -7,7 +7,7 @@ Machine Learning and Computer Vision Engineer
 
 *   🌍  I'm based in Turkey
 *   ✉️  You can contact me at [ear.cv.dev@gmail.com](mailto:ear.cv.dev@gmail.com)
-*   🚀  I'm currently working on [Web AR Studio](http://https://web-ar.studio/)
+*   🚀  I'm currently working on [ERA Tech](https://www.linkedin.com/company/era-techh)
 *   🧠  I'm learning WebAssembly, WebGL, CNN for Web
 *   🤝  I'm open to collaborating on AR projects
 *   ⚡  My Totem animal is Wolf)))
