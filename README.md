@@ -15,7 +15,7 @@
 
 ### ⚡ Summary
 
-Senior Computer Vision and Machine Learning Engineer with over 7 years of experience leading, designing, and deploying end-to-end AI solutions. Proven expertise in optimizing and deploying deep learning models for edge and cloud environments, reducing latency by up to 60% using TensorRT/TFLite. Adept at building scalable data pipelines and leading cross-functional teams to deliver innovative products in WebAR, AI-powered automation, and data analysis. Seeking to leverage technical leadership and hands-on expertise in Python, TensorFlow, PyTorch, and C++.
+Results-driven Computer Vision and Machine Learning Engineer with proven expertise in leading end-to-end technical projects. Hands-on experience designing, developing, optimizing, and deploying deep learning models for real-time image analysis and object detection. Skilled in integrating ML pipelines across both edge and cloud environments using Python, TensorFlow, PyTorch, OpenCV, and C++. Proven track record of collaborating with cross-functional teams to deliver high-impact AI solutions.
 
 ---
 
