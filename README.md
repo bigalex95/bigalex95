@@ -45,6 +45,7 @@ Results-driven Computer Vision and Machine Learning Engineer with proven experti
   </picture>
   </a>
 </p>
+
 ---
 
 ### 🔗 Portfolio
