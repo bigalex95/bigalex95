@@ -21,9 +21,9 @@ Computer vision engineer with 6+ years of experience building real-time vision s
 
 ### 🧰 Stack
 
-**Languages:** Python · C++ · JavaScript
-**ML / CV:** PyTorch · TensorFlow · OpenCV · TensorRT · ONNX
-**Systems:** ROS · Docker · FastAPI · Git · Linux
+- **Languages:** Python · C++ · JavaScript
+- **ML / CV:** PyTorch · TensorFlow · OpenCV · TensorRT · ONNX
+- **Systems:** ROS · Docker · FastAPI · Git · Linux
 
 ---
 
