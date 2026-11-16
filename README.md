@@ -27,6 +27,21 @@ Computer vision engineer with 6+ years of experience building real-time vision s
 
 ---
 
+### 🚀 Featured projects
+
+| Project | What it is | Tech | Result |
+| --- | --- | --- | --- |
+| [ai-interview-judge](https://github.com/bigalex95/ai-interview-judge) | C++ slide-change detector (pybind11) plus a FastAPI pipeline that transcribes, OCRs slides and grades interview answers | C++, OpenCV, FastAPI, faster-whisper, PaddleOCR, Gemini | 347 fps @720p / 264 fps @1080p slide detection (Ryzen 7 5800H) |
+| [Smart-Counter](https://github.com/bigalex95/Smart-Counter) | People counter: YOLOv8 detection, centroid tracking, IN/OUT line crossing, SQLite logging, Streamlit dashboard | C++17, ONNX Runtime, OpenCV, Docker | 27 unit tests + CI |
+| [uav-depth-densification](https://github.com/bigalex95/uav-depth-densification) | Dense metric depth for UAV imagery: monocular depth scaled to a COLMAP reconstruction by a C++ polynomial least-squares fit | COLMAP, Depth Anything V2, C++, Eigen | GoogleTest + CI |
+| [VIO-SLAM-Assignment](https://github.com/bigalex95/VIO-SLAM-Assignment) | Docker + evo harness evaluating Basalt VIO on EuRoC | Basalt, Docker, evo | ATE RMSE 0.069 m (MH_01), 0.054 m (V1_03) |
+| [pix2pix_TecoGAN](https://github.com/bigalex95/pix2pix_TecoGAN) | Real-time webcam pipeline: pix2pix denoising and TecoGAN super-resolution to a virtual camera | TensorFlow, PyTorch, OpenCV | Demo project |
+| [minininja](https://github.com/bigalex95/minininja) | MiniNinja, a webcam hand-gesture fruit-slicing game | Python, MediaPipe, OpenCV | Playable prototype |
+
+**More:** [cuda-vision-lab](https://github.com/bigalex95/cuda-vision-lab) (work-in-progress CUDA CV lab; stage 00 measured 12.7-21.2x GPU speedup on RTX 3060 Laptop) · [NanoRec-CPP](https://github.com/bigalex95/NanoRec-CPP) (C++20 ImGui + FFmpeg screen recorder)
+
+---
+
 ### 🔗 Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bigalex95-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bigalex95)
